@@ -1,0 +1,20 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("series.ly") {
+	/*Pagina principal y alineaminto general*/
+	.colder, #capsule-widget,#bazzinga_home,#tv_home, #football_module, #allMyHome > div:nth-child(1), .home_tit, #top-comment, iframe, #uservoice-feedback{
+		display:none;
+	}
+	#mainAjaxContent{
+		width: 70% !important;
+		margin: auto !important;
+	}
+	.colizq{
+		float: none !important;
+	}
+	
+	/*Botones de status de las peliculas*/
+	.media-peli{
+		padding-top: 1em;
+	}
+}
