@@ -2,7 +2,7 @@
 
 @-moz-document domain("series.ly") {
 	/*Pagina principal y alineaminto general*/
-	.colder, #capsule-widget,#bazzinga_home,#tv_home, #football_module, #allMyHome > div:nth-child(1), .home_tit, #top-comment, iframe, #uservoice-feedback{
+	.colder, #capsule-widget,#bazzinga_home,#tv_home, #football_module, #allMyHome > div:nth-child(1), .home_tit, #top-comment, iframe, #uservoice-feedback, .thumbsList{
 		display:none;
 	}
 	#mainAjaxContent{
